@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 == NapakalakiRuby
 
 Put appropriate LICENSE for your project here.
 =======
+=======
+>>>>>>> 388d8074d5a31fbdd31de826efdeb052bb97eb93
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -677,4 +680,7 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+<<<<<<< HEAD
 >>>>>>> 1c89729602cc45ec23daaca9d10cc296cfa95412
+=======
+>>>>>>> 388d8074d5a31fbdd31de826efdeb052bb97eb93
